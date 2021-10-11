@@ -1,0 +1,45 @@
+.sc-bg-grey{
+  background-color: lightgray;
+}
+.sc-h-300{
+  height: 300px;
+  background-color: yellowgreen;
+}
+
+.sc-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightseagreen;
+  border: 1px solid black;
+  min-height: 50px;
+  color: white;
+}
+.sc-box2{
+  background-color: tomato;
+
+}
+
+.sc-box4{
+  min-height: 50px;
+}
+
+.sc-mt{
+  margin-top: 25px;
+}
+
+.sc-box3{
+  background-color: lightseagreen;
+  min-height: 50px;
+  color: white;
+  text-align: justify;
+}
+
+.sc-box-yellow{
+  background-color: yellowgreen;
+}
+
+
+footer{
+  height: 500px;
+}
